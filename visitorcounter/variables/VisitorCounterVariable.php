@@ -14,5 +14,3 @@ class VisitorCounterVariable
 		return craft()->visitorCounter_visitor->getVisitorData($param);
 	}
 }
-
-?>

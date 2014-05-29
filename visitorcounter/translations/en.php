@@ -8,5 +8,3 @@ return array(
 	'Besucherzähler' => 'Visitor Counter',
 	'Besucher: Übersicht' => 'Visitors: summary'
 );
-
-?>

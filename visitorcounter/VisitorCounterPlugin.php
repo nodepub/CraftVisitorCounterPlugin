@@ -19,5 +19,3 @@ class VisitorCounterPlugin extends BasePlugin {
 		return 'http://linnertmedia.de';
 	}
 }
-
-?>

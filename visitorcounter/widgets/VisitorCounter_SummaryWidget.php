@@ -12,5 +12,3 @@ class VisitorCounter_SummaryWidget extends BaseWidget {
 		return $renderedTemplate;
 	}
 }
-
-?>

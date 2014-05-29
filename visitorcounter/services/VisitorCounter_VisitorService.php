@@ -64,5 +64,3 @@ class VisitorCounter_VisitorService extends BaseApplicationComponent
 		return $visitorData;
 	}
 }
-
-?>

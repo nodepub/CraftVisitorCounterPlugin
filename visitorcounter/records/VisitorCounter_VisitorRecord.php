@@ -23,5 +23,3 @@ class VisitorCounter_VisitorRecord extends BaseRecord
 		return $record;
 	}
 }
-
-?>
